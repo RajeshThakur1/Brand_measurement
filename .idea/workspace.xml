@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5090c81-42d6-4f64-9490-f979702a7748" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/BrandMeasureProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BrandMeasureProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clientService.py" beforeDir="false" afterPath="$PROJECT_DIR$/clientService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_finaloutputsignal/StoreDiarizedOutput.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_finaloutputsignal/StoreDiarizedOutput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_finaloutputsignal/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_finaloutputsignal/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_keywordspotter/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_keywordspotter/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_keywordspotter/keywordSpotter.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_keywordspotter/keywordSpotter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/SignalLabelling.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_labelling/SignalLabelling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/SignalLabelsPrediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_labelling/SignalLabelsPrediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_labelling/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_labelling/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_preprocessing/SingalPreprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_preprocessing/SingalPreprocessing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_preprocessing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_preprocessing/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_service/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_service/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_service/brandMeasureservice.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_service/brandMeasureservice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_speech_to_text/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_speech_to_text/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_speech_to_text/transcriptGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_speech_to_text/transcriptGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_spellingcorrector/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_spellingcorrector/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com_in_ineuron_ai_spellingcorrector/spellcorrector.py" beforeDir="false" afterPath="$PROJECT_DIR$/com_in_pybron_spellingcorrector/spellcorrector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonClientApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonClientApp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1k0VpCrJ7VDCAXqcwyJMq2qG4g1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="clientService" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrandMeasureProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clientService.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BrandMeasureProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.clientService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5090c81-42d6-4f64-9490-f979702a7748" name="Default Changelist" comment="" />
+      <created>1604837677124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604837677124</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added the file for running locally without api">
+      <created>1604837726263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604837726263</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated requirements.txt">
+      <created>1604837911187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604837911187</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added the file for running locally without api" />
+    <MESSAGE value="updated requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated requirements.txt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
